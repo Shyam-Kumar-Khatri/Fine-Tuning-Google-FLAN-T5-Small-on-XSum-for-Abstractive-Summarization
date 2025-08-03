@@ -16,7 +16,7 @@ This project demonstrates **fine-tuning the Google FLAN-T5 Small model** on the 
 - [🚀 Usage / How to Run](#usage--how-to-run)
 - [🔧 Fine-Tuning Process](#fine-tuning-process)
 - [📊 Results](#results)  
-- [💻 Demo](#demo)  
+- [💻 Demo (Open in Google Colab)](#demo)  
 - [🔮 Future Improvements](#future-improvements)
 - [🐛 Known Issues / Limitations](#known-issues--limitations)
 - [🧩 Contribution Guidelines](#contribution-guidelines)
