@@ -88,7 +88,7 @@ Each data point includes:
 📄 **requirement.txt**  
   ↳ **Dependencies & requirements to install**  
 
-📓 **Fine-Tuning Google FLAN-T5 Small on XSum for Summarization.ipynb**  
+📓 **Fine-Tuning Google FLAN-T5 Small on XSum for Abstractive Summarization.ipynb**  
   ↳ Main **Colab notebook for fine-tuning**  
 
 📘 **README.md**  
@@ -137,8 +137,8 @@ This project requires **Python 3.8+** and uses libraries from Hugging Face and o
 1. **Clone the repository (if hosted on GitHub):**
 
 ```bash
-git clone https://github.com/your-username/flan-t5-xsum-summarization.git
-cd flan-t5-xsum-summarization
+git clone https://github.com/Shyam-Kumar-Khatri/Fine-Tuning-Google-FLAN-T5-Small-on-XSum-for-Abstractive-Summarization.git
+cd Fine-Tuning-Google-FLAN-T5-Small-on-XSum-for-Abstractive-Summarization
 ```
 
 2. **Create and activate a virtual environment (recommended):**
@@ -188,9 +188,9 @@ Follow these steps to run the notebook and fine-tune **FLAN-T5 Small** on the **
 1. **Clone the repository and install dependencies:**
 
    ```bash
-   git clone https://github.com/your-username/flan-t5-xsum-summarization.git
-   cd flan-t5-xsum-summarization
-   pip install -r requirements.txt
+    git clone https://github.com/Shyam-Kumar-Khatri/Fine-Tuning-Google-FLAN-T5-Small-on-XSum-for-Abstractive-Summarization.git
+    cd Fine-Tuning-Google-FLAN-T5-Small-on-XSum-for-Abstractive-Summarization
+    pip install -r requirements.txt
    ```
 
 2. **Open the Jupyter Notebook (or Google Colab):**
@@ -199,7 +199,7 @@ Follow these steps to run the notebook and fine-tune **FLAN-T5 Small** on the **
    jupyter notebook
    ```
 
-   Open `Fine-Tuning Google FLAN-T5 Small on XSum for Summarization.ipynb` in Jupyter or upload it to **Google Colab**.
+   Open `Fine-Tuning Google FLAN-T5 Small on XSum for Abstractive Summarization.ipynb` in Jupyter or upload it to **Google Colab**.
 
 3. **Run cells step-by-step:**
 
